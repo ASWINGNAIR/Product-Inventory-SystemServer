@@ -1,0 +1,28 @@
+{
+  "Products": [
+    {
+      "name": "Apple iPhone 15",
+      "category": "Mobile phone",
+      "price": "58,749",
+      "stockDetails": "very good",
+      "description": " 1 year warranty for phone",
+      "id": 1
+    },
+    {
+      "name": "Noise Mettle",
+      "category": "Smart Watch",
+      "price": "1,899",
+      "stockDetails": "Good",
+      "description": "Stainless Steel finish with Metal Strap",
+      "id": 2
+    },
+    {
+      "name": "boAt Airdopes ",
+      "category": "Bluetooth Headset",
+      "price": "899",
+      "stockDetails": "very Good",
+      "description": "ASAP Charge & 40 HRS Playback Bluetooth",
+      "id": 3
+    }
+  ]
+}
